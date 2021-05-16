@@ -1,5 +1,5 @@
 # Code Quiz
-deployed project:
+deployed project: https://alexjg501.github.io/code-quiz/
 
 ## Description
 A vanilla JavaScript app that quizzes users on basic JS and stores high scores in LocalStorage.
