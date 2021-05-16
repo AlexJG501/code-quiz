@@ -45,8 +45,6 @@ button:hover {
 .leaderboard-button {
     margin-top: 24px;
 }
-
-/* Quiz Styles */
 #home-button {
     position: absolute;
     top: 0px;
@@ -101,7 +99,7 @@ input {
         position: relative;
     }
 }
-/* Mobile Phones and Smaller */
+/* Screen sizing */
 @media screen and (max-width: 575px) {
     header {
         margin-top: 0px;
